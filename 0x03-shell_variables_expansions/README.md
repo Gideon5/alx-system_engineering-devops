@@ -9,4 +9,5 @@
 8.The script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line.
 9.The script prints the result of POWER divided by DIVIDE followed by a new line.
 10.The script displays the result of BREATH to the power LOVE.
-11.
+11.This script converts a number from base 2 to base 10.
+12. 
