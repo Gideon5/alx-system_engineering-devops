@@ -8,4 +8,5 @@
 7.The script creates a new global variable with the name BEST and value School.
 8.The script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line.
 9.The script prints the result of POWER divided by DIVIDE followed by a new line.
-10. 
+10.The script displays the result of BREATH to the power LOVE.
+11.
