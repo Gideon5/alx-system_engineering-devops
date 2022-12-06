@@ -5,4 +5,5 @@
 4.The script lists environmetn variables.
 5.The script lists all local variables and environment variables and functions.
 6.The script creates a new local variable BEST with value School.
-7.
+7.The script creates a new global variable with the name BEST and value School.
+8.
