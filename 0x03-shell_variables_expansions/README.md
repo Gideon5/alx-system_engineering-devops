@@ -7,4 +7,5 @@
 6.The script creates a new local variable BEST with value School.
 7.The script creates a new global variable with the name BEST and value School.
 8.The script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line.
-9. 
+9.The script prints the result of POWER divided by DIVIDE followed by a new line.
+10. 
